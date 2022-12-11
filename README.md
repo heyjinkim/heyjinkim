@@ -1,4 +1,7 @@
-### Hi there 👋
+![28656_131203570224905_1648361_n](https://user-images.githubusercontent.com/205137/208272199-4875d4f5-6ab6-46be-8ebe-b71acc03034d.jpeg)
+
+
+💬 Hack at Techcrunch Disrupt in 2010
 
 <!--
 **heyjinkim/heyjinkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
