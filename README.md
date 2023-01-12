@@ -1,7 +1,8 @@
-![28656_131203570224905_1648361_n](https://user-images.githubusercontent.com/205137/208272199-4875d4f5-6ab6-46be-8ebe-b71acc03034d.jpeg)
+
+![avatar_yellow_hoddie_Breakdance Ending 1](https://user-images.githubusercontent.com/205137/212086259-7b865be8-04ed-4628-9cd5-c59237613ae9.gif)
 
 
-💬 Hack at Techcrunch Disrupt in 2010
+✨ Animated Avatar ✨ created with [readyplayer](https://readyplayer.me) & [mixamo](https://www.mixamo.com)
 
 <!--
 **heyjinkim/heyjinkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
