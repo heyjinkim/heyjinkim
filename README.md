@@ -2,7 +2,7 @@
 ![avatar_yellow_hoddie_Breakdance Ending 1](https://user-images.githubusercontent.com/205137/212086259-7b865be8-04ed-4628-9cd5-c59237613ae9.gif)
 
 
-✨ Animated Avatar ✨ created with [readyplayer](https://readyplayer.me) & [mixamo](https://www.mixamo.com)
+✨ Animated Avatar - created with [readyplayer](https://readyplayer.me) & [mixamo](https://www.mixamo.com) ✨ 
 
 <!--
 **heyjinkim/heyjinkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
