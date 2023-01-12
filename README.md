@@ -4,7 +4,7 @@
 
 <br /><br /><br /><br />
 
-✨ Created with [ReadyPlayerMe](https://readyplayer.me) `avatar` & [Mixamo](https://www.mixamo.com) `animation` ✨ 
+✨ Created with [readyplayer.me](https://readyplayer.me) `avatar` & [mixamo](https://www.mixamo.com) `animation` ✨ 
 
 <!--
 **heyjinkim/heyjinkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
