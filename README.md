@@ -1,4 +1,4 @@
-## Hello! I'm Heyjin.
+## Hello!
 
 😊 I am a [design-minded engineer](https://medium.com/@heyjinkim/design-minded-engineers-dac790a2fe76) who has empathy towards other people & their experiences to make software
 
