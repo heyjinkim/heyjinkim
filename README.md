@@ -16,5 +16,8 @@
 https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%B1%83%EC%A7%80-%EB%AA%A8%EC%9D%8C
 
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> 
+
+https://github-readme-stats.vercel.app/api?username=heyjinkim&count_private=true
+
 -->
 
