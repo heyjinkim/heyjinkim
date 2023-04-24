@@ -19,5 +19,8 @@ https://velog.io/@hippohami/Git-README-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EB%B1%83%EC%
 
 https://github-readme-stats.vercel.app/api?username=heyjinkim&count_private=true
 
+![](https://komarev.com/ghpvc/?username=heyjinkim)
+
+[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyjinkim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
